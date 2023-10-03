@@ -9,7 +9,7 @@ Atualmente estudo e trabalho com desenvolviumento web com foco em front-end.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,nodejs,html,css,git,mysql,jest,sass" />
+    <img src="https://skillicons.dev/icons?i=typescript,javascript,angular,nodejs,html,css,git,mysql,jest,sass,bootstrap" />
   </a>
 </p>
 
